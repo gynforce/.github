@@ -1,1 +1,1 @@
-Gynforce é uma plataforma SaaS focada na gestão inteligente de academias e acompanhamento de alunos, unindo tecnologia e performance em um só lugar.
+Plataforma de gestão, lugar para alunos registrar treino e site profissional. Tudo unificado em uma experiência limpa, rápida e desenhada para conversão.
